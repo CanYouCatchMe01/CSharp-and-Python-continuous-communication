@@ -1,2 +1,5 @@
-# CSharp-and-Python-continuous-communication
-These scrips make so you can send data between C# and Python via Socket. You can have continuous fast communication between them. Great for having your own AI in Unity. I'm currently makeing a video tutorial on Youtube.
+# Connect C# and Python
+This is a tutorial about how to connect C# and Python via socket communication. This can be used to for example make your own AI game in Unity.
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
